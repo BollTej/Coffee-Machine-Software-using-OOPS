@@ -46,13 +46,13 @@
 
 ## 2. Coin operated
 
-<p>The second feature of the machine is to be coin operated. We are going to use american coins:</p>
+<p>The second feature of the machine is to be coin operated. We are going to use indian currencies:</p>
 
 <ul>
-    <li>Penny: $0.01</li>
-    <li>Nickel: $0.05</li>
-    <li>Dime: $0.10</li>
-    <li>Quarter: $0.25</li>
+    <li>No of 10 rupee notes: $10</li>
+    <li>No of 20 rupee notes: $20</li>
+    <li>No of 50 rupee notes: $50</li>
+    <li>No of 100 rupee notes: $100</li>
 </ul>
 
 ## 3. Program requirements
