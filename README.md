@@ -1,7 +1,7 @@
 # Coffee Machine Software using OOPS
 # Coffee Machine Program
 
-<p>This project aims to develop a coffee machine software using Object-Oriented Programming.</p>
+<p>This project aims to develop a coffee machine software using OOPS.</p>
 
 ## 1. Makes 3 hot flavours
 
